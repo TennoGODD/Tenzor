@@ -1,0 +1,11 @@
+.pytest_cache
+.idea
+.venv
+*.iml
+report
+allure-results
+downloads
+webdriver/
+drivers/
+*.exe
+.env
